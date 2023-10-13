@@ -1,4 +1,4 @@
-# erp-team3
+# ERP-team3
 3조 erp project 개발<br>
 2023.10.10 ~ 2023.11.13
 
