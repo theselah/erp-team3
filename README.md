@@ -6,8 +6,13 @@
 영업관리 ERP 프로그램제작 프로젝트
 
 # 개발환경
-IDE : Eclipse (STS3)
-언어 : JAVA(Spring), javaScript
-서버 : Apache Tomcat v9.0
-DB : Oracle RDBMS (MyBatis)
+<ul>
+  <li>IDE : Eclipse (STS3)</li>
+  <li>언어 : JAVA(Spring), javaScript</li>
+  <li>서버 : Apache Tomcat v9.0</li>
+  <li>DB : Oracle RDBMS (MyBatis)</li>
 
+  
+</ul>
+
+# ERD
