@@ -7,10 +7,12 @@
 
 # 개발환경
 <ul>
-  <li>IDE : Eclipse (STS3)</li>
-  <li>언어 : JAVA(Spring), javaScript</li>
+  <li>통합개발환경 : Spring Tool Suite 3.9.15.RELEASE</li>
+  <li>개발 언어 : Java, Jsp, JavaScript, JQuery, HTML5, CSS3</li> 
+  <li>DB설계 : db diagram</li>
+  <li>DB : Oracle 11g xe</li>
   <li>서버 : Apache Tomcat v9.0</li>
-  <li>DB : Oracle RDBMS (MyBatis)</li>  
+  <li>웹 프레임워크 : MyBatis, Bootstrap</li>
 </ul>
 
 # ERD
